@@ -3,7 +3,7 @@ Welcome to my coding blog.
 
 # Articles
 
-## 2024.02
+## 2024.02 Issue
 
 ### GIT Series
 
@@ -14,6 +14,7 @@ Welcome to my coding blog.
 
 ### C# Series
 
+- [C# - Advanced MSBuild - Early deployment of a plugin during Debug build](./Csharp/msbuild-plugin-debug)
 - [C# - Language Tips](./Csharp/lang-tips)
 
 ### Javascript Series

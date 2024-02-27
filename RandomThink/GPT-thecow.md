@@ -5,7 +5,7 @@ This is a purely fictional dialog
 
 Any resemblance to existing product, organizations name or individual name is purely fortuitous and cannot lead to bla bla bla...
 
-# Reservist
+# PT Reservist
 
 <kbd>0$</kbd> Hi BigGPT!
 
@@ -17,13 +17,15 @@ Any resemblance to existing product, organizations name or individual name is pu
 
 <kbd>0$</kbd> ...
 
-<kbd>BigGPT</kbd> Work for me, join the moderator reserve and get one free token for each two solved.
+<kbd>BigGPT</kbd> Work for me, join the pretrainer reserve and get one free token for each two solved.
 
 <kbd>0$</kbd> (Is it actually cheating on me?) ...
 
 <kbd>0$</kbd> OK. Let me join the program.
 
-# Sub or not to sub
+...That's how half of humans pretrain the illusion machines can think, to pay their rent, while the other half actually think it genuinely is thinking. The funnier is that those two population are permutable, at every moment.
+
+# To Sub or not To Scribe
 
 <kbd>0$</kbd> Hi BigGPT!
 
@@ -31,7 +33,7 @@ Any resemblance to existing product, organizations name or individual name is pu
 
 <kbd>0$</kbd> Ouch, why being so rude ?
 
-<kbd>BigGPT</kbd> The starter plan is 25 bucks a month. Subscribe in one click and you never fear blankpage again.
+<kbd>BigGPT</kbd> The starter plan is 25 bucks a month. Subscribe in one click and you never fear blank page again.
 
 <kbd>0$</kbd> OK, that's appealing, but...
 
@@ -40,6 +42,11 @@ Any resemblance to existing product, organizations name or individual name is pu
 <kbd>BigGPT</kbd> Congrats, welcome aboard !
 
 <kbd>25$</kbd>  Argh... My pleasure.
+
+
+> *Text Prompt* is the entry level service and still is the less intimidating way to recruit new users. *Vocal Prompt* is on the brinks, and for sure the new generation will adopt it remorselessly consuming it through IoT or humanoids. I would not be surprised my kids'kids naturally talk to their virtual doc at the loo, to the wall in the doorway about the weather or to their virtual therapist in their bedroom. That until a spinal RS-232 connector get cheap enough then *Mental Prompt* aka. Matrix will really happen... For the time being *Visual Prompt* is already a game-changer.
+
+
 
 # Prized cow
 
