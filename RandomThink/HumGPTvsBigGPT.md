@@ -1,3 +1,6 @@
+![logo](../pix/viiinzzz48.png){: style="float: left"}
+[back to home](https://viiinzzz.github.io/HOME)
+
 # Human Genial Performance Trial vs Big Gross ProfiT
 
 Just came across this nice street artistry scene this morning, and asked BigGPT a similar artefact. Here are the two, make your choice.

@@ -23,6 +23,7 @@ Welcome to my coding blog.
 
 ### Random Thinks
 
+- [GPT Art](./RandomThink/GPT-art)
 - [HumGPT vs BigGPT](./RandomThink/HumGPTvsBigGPT)
 - [GPT The cow](./RandomThink/GPT-thecow)
 
