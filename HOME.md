@@ -23,7 +23,8 @@ Welcome to my coding blog.
 
 ### Random Thinks
 
-- [GPT Art](./RandomThink/GPT-art)
+- [Secret Love Weapon](GPT-war-n-love.md)
+- [Education Future](./RandomThink/GPT-education-future)
 - [HumGPT vs BigGPT](./RandomThink/HumGPTvsBigGPT)
 - [GPT The cow](./RandomThink/GPT-thecow)
 
