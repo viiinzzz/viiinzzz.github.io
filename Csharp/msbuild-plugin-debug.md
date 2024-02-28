@@ -1,3 +1,6 @@
+![logo](../pix/viiinzzz48.png){: style="float: left"}
+[back to home](https://viiinzzz.github.io/HOME)
+
 # Advanced MSBuild : early deployment of a plugin during Debug build
 
 During the Debug phase, multiple build/debug/fix iterations may be needed in a complex solution where a technical debt was accumulated, or where a difficult to debug legacy is present, especially where a loose plugin architecture is used.
