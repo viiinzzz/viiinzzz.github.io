@@ -21,17 +21,23 @@ Welcome to my coding blog.
 
 - [JS - NPM package publish](./Javascript/npm/publish)
 
-### Random Thinks
-
-- [Secret Love Weapon](GPT-war-n-love.md)
-- [Education Future](./RandomThink/GPT-education-future)
-- [HumGPT vs BigGPT](./RandomThink/HumGPTvsBigGPT)
-- [GPT The cow](./RandomThink/GPT-thecow)
-
 # Contact
 
 > [!INFO]
 > Reach me at Մι∩z•thedev@Ᏻᗰ⟇ι⌠•⊂ᛜᗰ for any suggestion, correction.
+
+# Some words about me
+
+When I don't frantically type on my laptop keyboard, I like hiking in tropical forest, I love taking pictures of rare butterflies. This is a picture of me during last summer vacation between two IT development missions.
+![](./pix/adventurer.jpg){: style="width: 200"}
+
+### Random Thinks
+
+- [Secret Love Weapon](./RandomThink/GPT-war-n-love.md)
+- [Education Future](./RandomThink/GPT-education-future)
+- [HumGPT vs BigGPT](./RandomThink/HumGPTvsBigGPT)
+- [GPT The cow](./RandomThink/GPT-thecow)
+
 
 See Ya Later, Alligator ...
 
