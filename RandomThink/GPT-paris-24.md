@@ -9,7 +9,7 @@
 
 ## Disc throw
 
-![](../pix/lancer-javelot.jpg)
+![](../pix/lancer-disque.jpg)
 
 # Track cycling
 

@@ -33,6 +33,7 @@ When I don't frantically type on my laptop keyboard, I like hiking in tropical f
 
 ### Random Thinks
 
+- [Paris 2024 Olympic Games](./RandomThink/GPT-paris-24)
 - [Secret Love Weapon](./RandomThink/GPT-war-n-love.md)
 - [Education Future](./RandomThink/GPT-education-future)
 - [HumGPT vs BigGPT](./RandomThink/HumGPTvsBigGPT)
