@@ -47,7 +47,7 @@ Any resemblance to existing product, organizations name or individual name is pu
 <kbd>25$</kbd>  Argh... My pleasure.
 
 
-> *Text Prompt* is the entry level service and still is the less intimidating way to recruit new users. *Vocal Prompt* is on the brinks, and for sure the new generation will adopt it remorselessly consuming it through IoT or humanoids. I would not be surprised my kids'kids naturally talk to their virtual doc at the loo, to the wall in the doorway about the weather or to their virtual therapist in staring at their bedroom lamp. That until a spinal RS-232 connector get cheap enough to produce then *Mental Prompt* aka. Matrix will really happen... For the time being *Visual Prompt* is already a game-changer.
+> *Text Prompt* is the entry level service and still is the less intimidating way to recruit new users. *Vocal Prompt* is on the brinks, and for sure the new generation will adopt it remorselessly consuming it through IoT or humanoids. I would not be surprised my kids'kids naturally talk to their virtual doc at the loo, to the wall in the doorway about the weather or to their virtual therapist staring at their bedroom lamp. That until a spinal RS-232 connector get cheap enough to produce then *Mental Prompt* aka. Matrix will really happen... For the time being *Visual Prompt* is already a game-changer.
 
 
 
