@@ -1,5 +1,11 @@
+# Philosophie générative
+
 ![logo](../pix/viiinzzz48.png){: style="float: left"}
-[back to home](https://viiinzzz.github.io/HOME)
+*Մι∩z•thedev* · [Follow](mailto:vinz.thedev@gmail.com)
+Published in *Random Think* · 6 min read · 1 day ago
+___
+<span style="font-size:2.5em">👏</span>65k <span style="font-size:2.5em">💬</span>321 <span style="font-size:2.5em">🔖</span> <span style="font-size:2.5em">⤴️</span>
+___
 
 Je vous livre une liste de lecture de quelques pépites qui m'ont accompagnées ces dernières années
 
@@ -18,7 +24,7 @@ Je vous livre une liste de lecture de quelques pépites qui m'ont accompagnées 
 
 _Et voici l'essai philosophique que j'ai délégué à mon prestataire, C\*at\*P\*, honnêtement : c'est plein de resources et d'articulations passionnantes. Certes, mais je n'aurais pas du tout orienté l'argumentation dans ce sens. Errare humanum est... mes indications n'étaient pas suffisantes ou mal formulées, au moins ai-je eu le mérite de les formuler moi-même, n'est-ce pas ?
 Je lui reproche de ne pas avoir inclus quelques thèses de Taibo, qui n'est mais alors pas du tout un comique comme Paasilinna. De manière générale C\*at\*P\* est un piètre lecteur mais un sacré plagiaire et un connecteur de génie. Ce génie en plastique fait-il illusion ? Le métier de philosophe sera-t-il lui aussi rendu obsolète ? Comme constaté récemment je dis non : ces deux sentiments humains à eux seuls, humour et amour, démontrent qu'aucune équation à l'heure actuelle et encore pour un bon moment ne peut les modeler. Bon, mais là n'est pas le problème, remplacer les philosophes par l'IA, çà touche quoi ? 0.01% de la population ? Par contre le travail de bureau qui va être largement sabré c'est 40%. Que vont faire tous ces gens ? Encore une fois je soulève l'urgence du bon usage du progrès cyber._
- 
+
 ![](../pix/managri.webp)
 
 Voici l'essai en question :

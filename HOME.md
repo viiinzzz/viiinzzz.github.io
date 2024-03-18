@@ -5,11 +5,15 @@ Welcome to my coding blog.
 
 ## 2024.03 Issue
 
+### C# Series
+
+- [C# - Language Tips](./Csharp/lang-tips2)
+
 ### Random Thinks
 
-- [Harmonic Ballet DDD Coding](./RandomThink/GPT-ddd-coding)
+- [DDD Ballet](./RandomThink/GPT-ddd-coding)
+- [# Intelligent brain f＊＊＊ing](./RandomThink/intelligent-brainf)
 - [Gregarious Technologies](./RandomThink/GPT-greg-tech)
-- [C# - Language Tips](./Csharp/lang-tips2)
 
 ## 2024.02 Issue
 
@@ -46,8 +50,6 @@ Welcome to my coding blog.
 
 When I don't frantically type on my laptop keyboard, I like hiking in tropical forest, I love taking pictures of rare butterflies. This is a picture of me during last summer vacation between two IT development missions.
 ![](./pix/adventurer.jpg){: style="width: 200"}
-
-
 
 See Ya Later, Alligator ...
 
