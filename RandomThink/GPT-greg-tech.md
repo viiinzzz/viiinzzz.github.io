@@ -3,17 +3,18 @@
 
 Je vous livre une liste de lecture de quelques pépites qui m'ont accompagnées ces dernières années
 
-- Dino Buzzati, il Colombre, the secret weapon
+- Connexions, Michael F.Flynn
+- Il Colombre, the secret weapon, Dino Buzzati
 - Malevil, Robert Merle
 - Silo, Hugh Howey
-- Liu Cixin, Supernova
-- Arto Paasilinna, Maailman paras kylä
-- Carlos Taibo, Collapse
-- Ken Liu, The man who ended History
-- Emily St John Mandel, Sea of Tranquility
-- Kurt Vonnegut, The Sirens of Titan
-- Kurt Vonnegut, Slaughterhouse 5
-- H.G Wells, The Time Machine
+- Supernova, Liu Cixin
+- Maailman paras kylä, Arto Paasilinna
+- Collapse, Carlos Taibo
+- The man who ended History, Ken Liu
+- Sea of Tranquility, Emily St John Mandel
+- The Sirens of Titan, Kurt Vonnegut
+- Slaughterhouse 5, Kurt Vonnegut
+- The Time Machine, H.G Wells
 
 _Et voici l'essai philosophique que j'ai délégué à mon prestataire, C\*at\*P\*, honnêtement : c'est plein de resources et d'articulations passionnantes. Certes, mais je n'aurais pas du tout orienté l'argumentation dans ce sens. Errare humanum est... mes indications n'étaient pas suffisantes ou mal formulées, au moins ai-je eu le mérite de les formuler moi-même, n'est-ce pas ?
 Je lui reproche de ne pas avoir inclus quelques thèses de Taibo, qui n'est mais alors pas du tout un comique comme Paasilinna. De manière générale C\*at\*P\* est un piètre lecteur mais un sacré plagiaire et un connecteur de génie. Ce génie en plastique fait-il illusion ? Le métier de philosophe sera-t-il lui aussi rendu obsolète ? Comme constaté récemment je dis non : ces deux sentiments humains à eux seuls, humour et amour, démontrent qu'aucune équation à l'heure actuelle et encore pour un bon moment ne peut les modeler. Bon, mais là n'est pas le problème, remplacer les philosophes par l'IA, çà touche quoi ? 0.01% de la population ? Par contre le travail de bureau qui va être largement sabré c'est 40%. Que vont faire tous ces gens ? Encore une fois je soulève l'urgence du bon usage du progrès cyber._
@@ -43,4 +44,3 @@ Moreover, the notion of security emerges as a pivotal factor in the well-being o
 In conclusion, the exploration of human societies through the prism of literature reveals a complex tapestry of interwoven desires, challenges, and paradoxes. Our gregarious nature, while a source of strength and progress, also propels us toward ideological conflicts and technological pitfalls. The legacy we leave for future generations will be determined not just by the technologies we develop or the ideologies we champion, but by our capacity to navigate the intricate balance between unity and diversity, security and freedom, progress and sustainability. As we stand at the crossroads of history, the stories we choose to tell and the actions we take will echo through time, shaping the future in ways we can only begin to imagine.
 
 ![](../pix/silex.jpg)
-

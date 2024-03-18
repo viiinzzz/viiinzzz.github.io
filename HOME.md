@@ -7,7 +7,9 @@ Welcome to my coding blog.
 
 ### Random Thinks
 
+- [Harmonic Ballet DDD Coding](./RandomThink/GPT-ddd-coding)
 - [Gregarious Technologies](./RandomThink/GPT-greg-tech)
+- [C# - Language Tips](./Csharp/lang-tips2)
 
 ## 2024.02 Issue
 
