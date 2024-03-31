@@ -1,0 +1,9 @@
+.obsidian
+.vscode
+PUBLISHING.md
+*.bak
+_unpublished
+pix/_unpublished
+_archives
+*.unpub.md
+*.prompt
