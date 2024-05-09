@@ -7,7 +7,7 @@ Welcome to my coding and thinking blog.
 
 ### C# Series
 
-- [C# - Booking Bus Kata](./BookingBusKata.md) (new)
+- [C# - Booking Bus Kata](./Csharp/BookingBusKata.md) (new)
 
 ## 2024.04 Issue
 
