@@ -502,3 +502,36 @@ public record ProgramInfo(string? ExeName, string ExeVersion, string BuildConfig
     }
 }
 ```
+
+### discard assignment
+
+```csharp
+_ = who_the_hells_cares_about;
+
+_ = 2024; //roughly means, let's forget 2024 ...
+
+//much more useful is tuple partial deconstruction
+
+var (_, fun, _) = tuple; //do your shopping !
+```
+
+
+### switch regex
+
+```csharp
+var str = "yummy";
+
+switch (str)
+{                
+	case var s when Regex.IsMatch(s, "yucky"):
+		something = 1;
+		break;
+
+	case var s when Regex.IsMatch(userName, "yummy"):
+		something = 2;
+		break;
+
+	default:            
+		break;
+}    
+```

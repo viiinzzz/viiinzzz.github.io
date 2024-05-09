@@ -3,17 +3,23 @@ Welcome to my coding and thinking blog.
 
 # Articles
 
+## 2024.05 Issue
+
+### C# Series
+
+- [C# - Booking Bus Kata](./BookingBusKata.md) (new)
+
 ## 2024.04 Issue
 
 ### C# Series
 
-- [C# - Language Tips 3](./Csharp/lang-tips-3.md) (new)
+- [C# - Language Tips 3](./Csharp/lang-tips-3.md)
 
 ### Random Thinks
 
-- [Haïku printaniers](./RandomThink/haiku-printaniers.md) (new)
-- [Violin Literature](./RandomThink/violin-books.md) (new)
-- [Education Future](./RandomThink/education-future.md) (revised)
+- [Haïku printaniers](./RandomThink/haiku-printaniers.md)
+- [Violin Literature](./RandomThink/violin-books.md)
+- [Education Future](./RandomThink/education-future.md)
 
 ## 2024.03 Issue
 
@@ -49,7 +55,7 @@ Welcome to my coding and thinking blog.
 
 - [Paris 2024 Olympic Games](./RandomThink/paris-24.md)
 - [Secret Love Weapon](./RandomThink/war-n-love.md)
-- [HumGPT vs BigGPT](./RandomThink/HumGPTvsBigGPT)
+- [HumGPT vs BigGPT](./RandomThink/hum-gpt)
 - [GPT The cow](./RandomThink/the-cow.md)
 
 # Contact

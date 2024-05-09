@@ -52,4 +52,28 @@ _SF Movies_
 
 Here are my favorite fictions figuring techno-humans : Jodorowsky's Metabaron, Twohy's Riddick ex-necromonger. It looks like technology and war are one. I witness it's true, in history, military buildup and science leap are concomitant.
 
-I like these movies asking about the barrier between the human and the machine, Alien (Covenant SVP) and the mysterious android called David, the Terminators of course (Last Judgment's T-800 is so cool), the replicant K in Blade Runner (Villeneuve's so beautiful), Matrix (perso I like Resurrection) Are Neo and Trinity a simulation in the end ? Last year Edward's The Creator is very welcome as well. I have also good souvenir of Chappie, Her,  IRobot, RealSteel, WallE. How many times did I watch WallE with my kids ?
+I like these movies asking about the barrier between the human and the machine, Alien (Covenant please) and the mysterious android called David, the Terminators of course (Last Judgment's T-800 is so cool), the replicant K in Blade Runner (Villeneuve's so beautiful), Matrix (perso I like Resurrection) Are Neo and Trinity a simulation in the end ? Last year Edward's The Creator is very welcome as well. I have also good souvenir of Chappie, Her,  IRobot, RealSteel, WallE. How many times did I watch Wall-E with my kids ?
+
+The next hot tech to come is bio-engineering, where human would remodel themselves, not being augmented with add-on techs but turn into a new specie. It hopefully sounds like we are not ready to break the ethical barriers that manipulating extensively our ADN would make
+
+eugénisme Bienvenu à Gattaca
+Transhumanisme
+Depp's Transcendance
+Lucy, Limitless
+Elysium
+Augmented
+Ghost in the Shell
+Steve Austin man worth 3 millions
+
+to read:  La musique du sang, Greg Bear
+_La Sonate Hydrogène_, Iain Banks
+Dune, Herbert
+Robocop
+Ex machina
+
+
+Where does  IA generalization lead, augmented human, hybridation, autonomous IA, cyborg, techno-humans. Isn't it the way trans-humanism is pursuing ? By augmenting humans, some will gain power, many will loose their soul. Individuals affected by schyzophrenia, dementia are going to be legion.
+Is it the price for being able to escape to the stars and have a slight chance to survive in the most perilous environments, in OutSpace or desolated planets or flying rocks. It is certainly required to seriously plan that kind of wander.
+Why the hell though most of the population should pay the effort and drawbacks to allow that kind of fullness. If it were not a religion, it would fatally fail very soon.
+
+More pragmatically we can see in recent wars that IA use by army to point high value targets is inducing too much ethical price and is somehow counter productive, indeed collateral damage is very bad in informational war. Nonetheless the possible advent of autonomous mechanised combating robots does send shivers down our spine. Leaders are prompt at using their strategic assets to ensure domination. I can't imagine smaller powers that can't enroll millions in battle will naturally shift to that kind of army.
