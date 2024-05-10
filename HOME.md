@@ -9,6 +9,10 @@ Welcome to my coding and thinking blog.
 
 - [C# - Booking Bus Kata](./Csharp/BookingBusKata.md) (new)
 
+### Javascript Series
+
+- [Pactum.Js for API E2E Testing](./Javascript/Pactum-E2E-testing) (new)
+
 ## 2024.04 Issue
 
 ### C# Series
