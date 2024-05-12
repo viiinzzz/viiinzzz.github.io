@@ -8,6 +8,7 @@ Welcome to my coding and thinking blog.
 ### C# Series
 
 - [C# - Booking Bus Kata](./Csharp/BookingBusKata.md) (new)
+- [Lost in Translation, a shaky crossing with ORM](./Csharp/shaky-orm.md) (new)
 
 ### Javascript Series
 
