@@ -3,16 +3,24 @@ Welcome to my coding and thinking blog.
 
 # Articles
 
+## 2024.06 Issue
+
+### C# Series
+
+- [Debugging an Api pipeline](./Csharp/debug-middleware.md) (new)
+### Docker Series
+
+- [Optimizing docker image](./Csharp/Dockerfile-optimize.md) (new)
 ## 2024.05 Issue
 
 ### C# Series
 
-- [C# - Booking Bus Kata](./Csharp/BookingBusKata.md) (new)
-- [Lost in Translation, a shaky crossing with ORM](./Csharp/shaky-orm.md) (new)
+- [Booking Bus Kata](./Csharp/BookingBusKata.md)
+- [Lost in Translation, a shaky crossing with ORM](./Csharp/shaky-orm.md)
 
 ### Javascript Series
 
-- [Pactum.Js for API E2E Testing](./Javascript/Pactum-E2E-testing) (new)
+- [Pactum.Js for API E2E Testing](./Javascript/Pactum-E2E-testing)
 
 ## 2024.04 Issue
 

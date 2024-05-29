@@ -191,12 +191,26 @@ var numbers = new int[] { 1, 2, 3, 4, 5 };
 
 //C#8+ indexers
 
-numbers[^1] // numbers[length-1]
+numbers[0] // first element <--> numbers[length-length]
+numbers[4] // last element <--> numbers[length-1]
+numbers[^5] // first element <--> numbers[length-length]
+numbers[^1] // last element <--> numbers[length-1]
 
 numbers[2..^3];
-numbers[..^3];
-numbers[2..];
-numbers[..];
+numbers[..^3]; //<--> numbers[0..^3]; 
+numbers[2..];//<--> numbers[2..^0]; 
+numbers[..];//<--> numbers[0..^0]; 
+
+string str = "/a/b/c/"
+str[..^1] //trim end slash
+str[^1..] //trim start slash
+
+
+Range indexes = 0..4;
+
+int[] numbers = [..Enumerable.Range(0, 5)];
+
+Span<int> subnumbers = numbers[1..3];
 
 //funny but not always very useful
 

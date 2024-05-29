@@ -82,8 +82,8 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
            last_name = Holder-Tester
            email = Julius91.Holder@pacific.sea
            userId = T_HolderJ91
-           password = Welcome123!
-           confirm_password = Welcome123!
+           password = mypassword
+           confirm_password = mypassword
            locale = en-US
        ├⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯┈┈┈┈┈
        ┊🪃  Response
@@ -93,7 +93,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          🔝 headers
           = 
            [0] = date: Fri, 10 May 2024 08:28:51 GMT
-           [1] = request-id: 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000003
+           [1] = request-id: 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000003
            [2] = content-security-policy: report-uri http://localhost:7777/cspreport/send?time=1715329731000;
            [3] = cross-origin-embedder-policy: same-origin
            [4] = cross-origin-opener-policy: same-origin
@@ -122,7 +122,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          
          📃 body
           = 
-           requestId = 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000003
+           requestId = 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000003
            token = eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlRfSG9sZGVySjkxIiwibGFzdE5hbWUiOiJIb2xkZXItVGVzdGVyIiwiZmlyc3ROYW1lIjoiSnVsaXVzIiwicm9sZXMiOltdLCJpYXQiOjE3MTUzMjk3MzEsImV4cCI6MTcxNTkzNDUzMX0.sFb5ghCoscjnGZP7A11mTvF518pFa09f8ZCObulKZGjBFqcLiMhP9ywnvpRQ98kTrwuRlhnYmSWx75ofFsGO8w
            inactive = true
            username = T_HolderJ91
@@ -133,7 +133,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
        
        ├⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯┈┈┈┈┈
        ┊👉 return = 
-         requestId = 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000003
+         requestId = 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000003
          token = eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlRfSG9sZGVySjkxIiwibGFzdE5hbWUiOiJIb2xkZXItVGVzdGVyIiwiZmlyc3ROYW1lIjoiSnVsaXVzIiwicm9sZXMiOltdLCJpYXQiOjE3MTUzMjk3MzEsImV4cCI6MTcxNTkzNDUzMX0.sFb5ghCoscjnGZP7A11mTvF518pFa09f8ZCObulKZGjBFqcLiMhP9ywnvpRQ98kTrwuRlhnYmSWx75ofFsGO8w
          inactive = true
          username = T_HolderJ91
@@ -183,7 +183,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          🔝 headers
           = 
            [0] = date: Fri, 10 May 2024 08:29:36 GMT
-           [1] = request-id: 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000005
+           [1] = request-id: 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000005
            [2] = content-security-policy: report-uri http://localhost:7777/cspreport/send?time=1715329776000;
            [3] = cross-origin-embedder-policy: same-origin
            [4] = cross-origin-opener-policy: same-origin
@@ -211,12 +211,12 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          
          📃 body
           = 
-           requestId = 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000005
+           requestId = 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000005
            result = success
        
        ├⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯┈┈┈┈┈
        ┊👉 return = 
-         requestId = 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000005
+         requestId = 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000005
          result = success
        
  debug 
@@ -273,7 +273,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          🔝 headers
           = 
            [0] = date: Fri, 10 May 2024 08:29:36 GMT
-           [1] = request-id: 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000006
+           [1] = request-id: 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000006
            [2] = content-security-policy: report-uri http://localhost:7777/cspreport/send?time=1715329776000;
            [3] = cross-origin-embedder-policy: same-origin
            [4] = cross-origin-opener-policy: same-origin
@@ -301,7 +301,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          
          📃 body
           = 
-           requestId = 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000006
+           requestId = 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000006
            id = MfZR5wDt5Bcy3p9P43yAgY
            url = /api/v1/ingredient/MfZR5wDt5Bcy3p9P43yAgY
            result = success
@@ -345,7 +345,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          🔝 headers
           = 
            [0] = date: Fri, 10 May 2024 08:29:36 GMT
-           [1] = request-id: 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000007
+           [1] = request-id: 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000007
            [2] = content-security-policy: report-uri http://localhost:7777/cspreport/send?time=1715329776000;
            [3] = cross-origin-embedder-policy: same-origin
            [4] = cross-origin-opener-policy: same-origin
@@ -373,7 +373,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          
          📃 body
           = 
-           requestId = 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000007
+           requestId = 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000007
            id = V4WtDJeJExC68HxdpQ77eS
            url = /api/v1/ingredient/V4WtDJeJExC68HxdpQ77eS
            result = success
@@ -417,7 +417,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          🔝 headers
           = 
            [0] = date: Fri, 10 May 2024 08:29:36 GMT
-           [1] = request-id: 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000008
+           [1] = request-id: 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000008
            [2] = content-security-policy: report-uri http://localhost:7777/cspreport/send?time=1715329776000;
            [3] = cross-origin-embedder-policy: same-origin
            [4] = cross-origin-opener-policy: same-origin
@@ -445,7 +445,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          
          📃 body
           = 
-           requestId = 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000008
+           requestId = 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000008
            id = 9uEvLhtg1nXQ3HHyMsXSAJ
            url = /api/v1/ingredient/9uEvLhtg1nXQ3HHyMsXSAJ
            result = success
@@ -489,7 +489,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          🔝 headers
           = 
            [0] = date: Fri, 10 May 2024 08:29:36 GMT
-           [1] = request-id: 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000009
+           [1] = request-id: 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000009
            [2] = content-security-policy: report-uri http://localhost:7777/cspreport/send?time=1715329776000;
            [3] = cross-origin-embedder-policy: same-origin
            [4] = cross-origin-opener-policy: same-origin
@@ -517,7 +517,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          
          📃 body
           = 
-           requestId = 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000009
+           requestId = 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000009
            id = 4jESTgz1yvH11zVvgNyotY
            url = /api/v1/ingredient/4jESTgz1yvH11zVvgNyotY
            result = success
@@ -561,7 +561,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          🔝 headers
           = 
            [0] = date: Fri, 10 May 2024 08:29:36 GMT
-           [1] = request-id: 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000010
+           [1] = request-id: 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000010
            [2] = content-security-policy: report-uri http://localhost:7777/cspreport/send?time=1715329776000;
            [3] = cross-origin-embedder-policy: same-origin
            [4] = cross-origin-opener-policy: same-origin
@@ -589,7 +589,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          
          📃 body
           = 
-           requestId = 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000010
+           requestId = 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000010
            id = QF5ARxi37DNSWE7qKJSYaU
            url = /api/v1/ingredient/QF5ARxi37DNSWE7qKJSYaU
            result = success
@@ -633,7 +633,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          🔝 headers
           = 
            [0] = date: Fri, 10 May 2024 08:29:36 GMT
-           [1] = request-id: 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000011
+           [1] = request-id: 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000011
            [2] = content-security-policy: report-uri http://localhost:7777/cspreport/send?time=1715329776000;
            [3] = cross-origin-embedder-policy: same-origin
            [4] = cross-origin-opener-policy: same-origin
@@ -661,7 +661,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          
          📃 body
           = 
-           requestId = 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000011
+           requestId = 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000011
            id = WUiCDyaCMCupLiLjWpzXB5
            url = /api/v1/ingredient/WUiCDyaCMCupLiLjWpzXB5
            result = success
@@ -708,7 +708,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          🔝 headers
           = 
            [0] = date: Fri, 10 May 2024 08:29:36 GMT
-           [1] = request-id: 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000012
+           [1] = request-id: 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000012
            [2] = content-security-policy: report-uri http://localhost:7777/cspreport/send?time=1715329776000;
            [3] = cross-origin-embedder-policy: same-origin
            [4] = cross-origin-opener-policy: same-origin
@@ -736,7 +736,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          
          📃 body
           = 
-           requestId = 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000012
+           requestId = 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000012
            id = VHnHwPWUYBortCCd7dXfb1
            url = /api/v1/recipe/VHnHwPWUYBortCCd7dXfb1
            result = success
@@ -799,7 +799,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          🔝 headers
           = 
            [0] = date: Fri, 10 May 2024 08:29:36 GMT
-           [1] = request-id: 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000013
+           [1] = request-id: 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000013
            [2] = content-security-policy: report-uri http://localhost:7777/cspreport/send?time=1715329776000;
            [3] = cross-origin-embedder-policy: same-origin
            [4] = cross-origin-opener-policy: same-origin
@@ -827,7 +827,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          
          📃 body
           = 
-           requestId = 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000013
+           requestId = 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000013
            id = 8grmaLrTpGxsKpqW4AKwBg
            url = /api/v1/recipe/VHnHwPWUYBortCCd7dXfb1/step/8grmaLrTpGxsKpqW4AKwBg
            result = success
@@ -868,7 +868,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          🔝 headers
           = 
            [0] = date: Fri, 10 May 2024 08:29:36 GMT
-           [1] = request-id: 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000014
+           [1] = request-id: 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000014
            [2] = content-security-policy: report-uri http://localhost:7777/cspreport/send?time=1715329776000;
            [3] = cross-origin-embedder-policy: same-origin
            [4] = cross-origin-opener-policy: same-origin
@@ -896,7 +896,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          
          📃 body
           = 
-           requestId = 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000014
+           requestId = 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000014
            id = 43uaEkxAJ2pDjQn87JE1Jc
            url = /api/v1/recipe/43uaEkxAJ2pDjQn87JE1Jc
            result = success
@@ -959,7 +959,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          🔝 headers
           = 
            [0] = date: Fri, 10 May 2024 08:29:36 GMT
-           [1] = request-id: 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000015
+           [1] = request-id: 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000015
            [2] = content-security-policy: report-uri http://localhost:7777/cspreport/send?time=1715329776000;
            [3] = cross-origin-embedder-policy: same-origin
            [4] = cross-origin-opener-policy: same-origin
@@ -987,7 +987,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          
          📃 body
           = 
-           requestId = 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000015
+           requestId = 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000015
            id = AsTqe1XoxRa2DdKJBfqkXu
            url = /api/v1/recipe/43uaEkxAJ2pDjQn87JE1Jc/step/AsTqe1XoxRa2DdKJBfqkXu
            result = success
@@ -1049,7 +1049,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          🔝 headers
           = 
            [0] = date: Fri, 10 May 2024 09:28:51 GMT
-           [1] = request-id: 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000019
+           [1] = request-id: 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000019
            [2] = content-security-policy: report-uri http://localhost:7777/cspreport/send?time=1715333331000;
            [3] = cross-origin-embedder-policy: same-origin
            [4] = cross-origin-opener-policy: same-origin
@@ -1077,7 +1077,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          
          📃 body
           = 
-           requestId = 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000019
+           requestId = 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000019
            id = 9cU3JXa5Ujf7e4EgdwDGbC
            url = /api/v1/cook/proposition/9cU3JXa5Ujf7e4EgdwDGbC
            validToDate = 2024-05-12T09:28:00.000Z
@@ -1125,7 +1125,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          🔝 headers
           = 
            [0] = date: Fri, 10 May 2024 09:28:51 GMT
-           [1] = request-id: 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000020
+           [1] = request-id: 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000020
            [2] = content-security-policy: report-uri http://localhost:7777/cspreport/send?time=1715333331000;
            [3] = cross-origin-embedder-policy: same-origin
            [4] = cross-origin-opener-policy: same-origin
@@ -1153,7 +1153,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          
          📃 body
           = 
-           requestId = 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000020
+           requestId = 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000020
            id = lnv76fz9fqgWztgwbYJep4
            url = /api/v1/cook/meet/lnv76fz9fqgWztgwbYJep4
            result = success
@@ -1200,7 +1200,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          🔝 headers
           = 
            [0] = date: Fri, 10 May 2024 09:28:51 GMT
-           [1] = request-id: 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000021
+           [1] = request-id: 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000021
            [2] = content-security-policy: report-uri http://localhost:7777/cspreport/send?time=1715333331000;
            [3] = cross-origin-embedder-policy: same-origin
            [4] = cross-origin-opener-policy: same-origin
@@ -1228,7 +1228,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          
          📃 body
           = 
-           requestId = 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000021
+           requestId = 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000021
            id = lFids5y62g2YjcWVavLgs9
            url = /api/v1/cook/meet/lFids5y62g2YjcWVavLgs9
            result = success
@@ -1284,7 +1284,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          🔝 headers
           = 
            [0] = date: Sat, 11 May 2024 09:28:51 GMT
-           [1] = request-id: 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000025
+           [1] = request-id: 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000025
            [2] = content-security-policy: report-uri http://localhost:7777/cspreport/send?time=1715419731000;
            [3] = cross-origin-embedder-policy: same-origin
            [4] = cross-origin-opener-policy: same-origin
@@ -1312,7 +1312,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          
          📃 body
           = 
-           requestId = 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000025
+           requestId = 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000025
            id = leMTMh3SbdcZ9U8dHwg1MN
            url = /api/v1/cook/proposition/leMTMh3SbdcZ9U8dHwg1MN
            validToDate = 2024-05-13T09:28:00.000Z
@@ -1360,7 +1360,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          🔝 headers
           = 
            [0] = date: Sat, 11 May 2024 09:28:51 GMT
-           [1] = request-id: 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000026
+           [1] = request-id: 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000026
            [2] = content-security-policy: report-uri http://localhost:7777/cspreport/send?time=1715419731000;
            [3] = cross-origin-embedder-policy: same-origin
            [4] = cross-origin-opener-policy: same-origin
@@ -1388,7 +1388,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          
          📃 body
           = 
-           requestId = 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000026
+           requestId = 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000026
            id = QEvKMTED4Ey4kwgZCqzvoT
            url = /api/v1/cook/meet/QEvKMTED4Ey4kwgZCqzvoT
            result = success
@@ -1435,7 +1435,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          🔝 headers
           = 
            [0] = date: Sat, 11 May 2024 09:28:51 GMT
-           [1] = request-id: 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000027
+           [1] = request-id: 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000027
            [2] = content-security-policy: report-uri http://localhost:7777/cspreport/send?time=1715419731000;
            [3] = cross-origin-embedder-policy: same-origin
            [4] = cross-origin-opener-policy: same-origin
@@ -1463,7 +1463,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          
          📃 body
           = 
-           requestId = 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000027
+           requestId = 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000027
            id = Nv2ba2nD6Dehx6AUZGK1N6
            url = /api/v1/cook/meet/Nv2ba2nD6Dehx6AUZGK1N6
            result = success
@@ -1519,7 +1519,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          🔝 headers
           = 
            [0] = date: Sun, 12 May 2024 11:28:51 GMT
-           [1] = request-id: 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000031
+           [1] = request-id: 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000031
            [2] = content-security-policy: report-uri http://localhost:7777/cspreport/send?time=1715513331000;
            [3] = cross-origin-embedder-policy: same-origin
            [4] = cross-origin-opener-policy: same-origin
@@ -1547,7 +1547,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          
          📃 body
           = 
-           requestId = 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000031
+           requestId = 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000031
            id = JxsUWNxU4BjM6XUVMErehJ
            url = /api/v1/cook/proposition/JxsUWNxU4BjM6XUVMErehJ
            validToDate = 2024-05-14T11:28:00.000Z
@@ -1595,7 +1595,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          🔝 headers
           = 
            [0] = date: Sun, 12 May 2024 11:28:51 GMT
-           [1] = request-id: 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000032
+           [1] = request-id: 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000032
            [2] = content-security-policy: report-uri http://localhost:7777/cspreport/send?time=1715513331000;
            [3] = cross-origin-embedder-policy: same-origin
            [4] = cross-origin-opener-policy: same-origin
@@ -1623,7 +1623,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          
          📃 body
           = 
-           requestId = 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000032
+           requestId = 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000032
            id = PPvLZvWA1kRzUYY7XHYdUz
            url = /api/v1/cook/meet/PPvLZvWA1kRzUYY7XHYdUz
            result = success
@@ -1670,7 +1670,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          🔝 headers
           = 
            [0] = date: Sun, 12 May 2024 11:28:51 GMT
-           [1] = request-id: 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000033
+           [1] = request-id: 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000033
            [2] = content-security-policy: report-uri http://localhost:7777/cspreport/send?time=1715513331000;
            [3] = cross-origin-embedder-policy: same-origin
            [4] = cross-origin-opener-policy: same-origin
@@ -1698,7 +1698,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          
          📃 body
           = 
-           requestId = 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000033
+           requestId = 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000033
            id = WvzCBRynuBRdJsckbp4e6Q
            url = /api/v1/cook/meet/WvzCBRynuBRdJsckbp4e6Q
            result = success
@@ -1754,7 +1754,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          🔝 headers
           = 
            [0] = date: Mon, 13 May 2024 12:28:51 GMT
-           [1] = request-id: 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000037
+           [1] = request-id: 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000037
            [2] = content-security-policy: report-uri http://localhost:7777/cspreport/send?time=1715603331000;
            [3] = cross-origin-embedder-policy: same-origin
            [4] = cross-origin-opener-policy: same-origin
@@ -1782,7 +1782,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          
          📃 body
           = 
-           requestId = 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000037
+           requestId = 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000037
            id = Hxkce3uutWkt71DVJvG2R4
            url = /api/v1/cook/proposition/Hxkce3uutWkt71DVJvG2R4
            validToDate = 2024-05-15T12:28:00.000Z
@@ -1830,7 +1830,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          🔝 headers
           = 
            [0] = date: Mon, 13 May 2024 12:28:51 GMT
-           [1] = request-id: 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000038
+           [1] = request-id: 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000038
            [2] = content-security-policy: report-uri http://localhost:7777/cspreport/send?time=1715603331000;
            [3] = cross-origin-embedder-policy: same-origin
            [4] = cross-origin-opener-policy: same-origin
@@ -1858,7 +1858,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          
          📃 body
           = 
-           requestId = 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000038
+           requestId = 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000038
            id = TASi8o18xW1hkum3yUECFJ
            url = /api/v1/cook/meet/TASi8o18xW1hkum3yUECFJ
            result = success
@@ -1905,7 +1905,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          🔝 headers
           = 
            [0] = date: Mon, 13 May 2024 12:28:51 GMT
-           [1] = request-id: 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000039
+           [1] = request-id: 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000039
            [2] = content-security-policy: report-uri http://localhost:7777/cspreport/send?time=1715603331000;
            [3] = cross-origin-embedder-policy: same-origin
            [4] = cross-origin-opener-policy: same-origin
@@ -1933,7 +1933,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          
          📃 body
           = 
-           requestId = 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000039
+           requestId = 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000039
            id = lshMrHGuivEsXG2TPwb79J
            url = /api/v1/cook/meet/lshMrHGuivEsXG2TPwb79J
            result = success
@@ -1984,8 +1984,8 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
            last_name = Andrews-Tester
            email = Sai86.Andrews@pacific.sea
            userId = T_AndrewS86
-           password = Welcome123!
-           confirm_password = Welcome123!
+           password = mypassword
+           confirm_password = mypassword
            locale = en-US
        ├⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯┈┈┈┈┈
        ┊🪃  Response
@@ -1995,7 +1995,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          🔝 headers
           = 
            [0] = date: Fri, 10 May 2024 08:28:51 GMT
-           [1] = request-id: 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000043
+           [1] = request-id: 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000043
            [2] = content-security-policy: report-uri http://localhost:7777/cspreport/send?time=1715329731000;
            [3] = cross-origin-embedder-policy: same-origin
            [4] = cross-origin-opener-policy: same-origin
@@ -2024,7 +2024,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          
          📃 body
           = 
-           requestId = 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000043
+           requestId = 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000043
            token = eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlRfQW5kcmV3Uzg2IiwibGFzdE5hbWUiOiJBbmRyZXdzLVRlc3RlciIsImZpcnN0TmFtZSI6IlNhaSIsInJvbGVzIjpbXSwiaWF0IjoxNzE1MzI5NzMxLCJleHAiOjE3MTU5MzQ1MzF9.5tQ7mhqvVHGLK4LySWe10j8Yd0K4Ib0IarEzSRgJBpSHBnvzoDcCimgw7vwm_aETX04yA5Jtdd85erI5MQiQ1A
            inactive = true
            username = T_AndrewS86
@@ -2035,7 +2035,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
        
        ├⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯┈┈┈┈┈
        ┊👉 return = 
-         requestId = 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000043
+         requestId = 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000043
          token = eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlRfQW5kcmV3Uzg2IiwibGFzdE5hbWUiOiJBbmRyZXdzLVRlc3RlciIsImZpcnN0TmFtZSI6IlNhaSIsInJvbGVzIjpbXSwiaWF0IjoxNzE1MzI5NzMxLCJleHAiOjE3MTU5MzQ1MzF9.5tQ7mhqvVHGLK4LySWe10j8Yd0K4Ib0IarEzSRgJBpSHBnvzoDcCimgw7vwm_aETX04yA5Jtdd85erI5MQiQ1A
          inactive = true
          username = T_AndrewS86
@@ -2085,7 +2085,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          🔝 headers
           = 
            [0] = date: Fri, 10 May 2024 08:29:36 GMT
-           [1] = request-id: 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000045
+           [1] = request-id: 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000045
            [2] = content-security-policy: report-uri http://localhost:7777/cspreport/send?time=1715329776000;
            [3] = cross-origin-embedder-policy: same-origin
            [4] = cross-origin-opener-policy: same-origin
@@ -2113,12 +2113,12 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          
          📃 body
           = 
-           requestId = 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000045
+           requestId = 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000045
            result = success
        
        ├⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯┈┈┈┈┈
        ┊👉 return = 
-         requestId = 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000045
+         requestId = 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000045
          result = success
        
  debug 
@@ -2183,7 +2183,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          🔝 headers
           = 
            [0] = date: Mon, 13 May 2024 14:28:56 GMT
-           [1] = request-id: 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000050
+           [1] = request-id: 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000050
            [2] = content-security-policy: report-uri http://localhost:7777/cspreport/send?time=1715610536000;
            [3] = cross-origin-embedder-policy: same-origin
            [4] = cross-origin-opener-policy: same-origin
@@ -2211,7 +2211,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          
          📃 body
           = 
-           requestId = 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000050
+           requestId = 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000050
            id = SeC7SG4zW6MhMSEVhrdQk9
            url = /api/v1/eat/proposition/SeC7SG4zW6MhMSEVhrdQk9
            validToDate = 2024-05-20T14:28:56.000Z
@@ -2249,7 +2249,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          🔝 headers
           = 
            [0] = date: Mon, 13 May 2024 14:28:56 GMT
-           [1] = request-id: 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000051
+           [1] = request-id: 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000051
            [2] = content-security-policy: report-uri http://localhost:7777/cspreport/send?time=1715610536000;
            [3] = cross-origin-embedder-policy: same-origin
            [4] = cross-origin-opener-policy: same-origin
@@ -2277,7 +2277,7 @@ Just like Hannibal Smith, "I love it when a plan comes together" is my so called
          
          📃 body
           = 
-           requestId = 22220@LAPTOP-7D28KH4S/4ed5a4cac14854af5405f2bb-0000000000000051
+           requestId = 22220@CLIENTCOMPUTER/4ed5a4cac14854af5405f2bb-0000000000000051
            id = VSLwYpuVway93Mioe3yJZ9
            url = /api/v1/deal/VSLwYpuVway93Mioe3yJZ9
            result = success
