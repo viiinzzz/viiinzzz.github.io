@@ -12,7 +12,8 @@ We are in year 2024. Cobol started in 1959.
 This week I took the course "From Zero to **Cobol**" and rather found myself being a modern day archaeologist of early IT artefacts...
 
 - Astonishingly, there are `.` going around, supposed to delimit blocks, the result is awkward, trying to show a start and an end with only one character. Clearly not enough, so there are plenty lot `End-XXX` stuff as well. Happily modern languages use braces, whichever they are `( ) or { }` they come in handy.
-- Secondly, if you read the punch card story you understand, column 1 to 7 are reserved, over 72 are ignored... what the hell, nobody thought to upgrade the language a bit. nope. it's still in its original condition, pure vintage, I tell you.
+- Secondly, if you read the punch card story you understand, column 1 to 7 are reserved, over 72 are ignored... what the hell, nobody thought to upgrade the language a bit. nope. it's still in its original condition, pure vintage, I tell you. So **"brea**
+_                                   **"king a string over multiple lines".**    is not so flamboyant...
 - The data types are mostly fixed length, and mostly number in strings. It looks nice for statish-globalish-style programming ain't it?
 - It's got the funny hierarchy numbers before the variable declaration, it's odd nonetheless it is working. That's the ancestor of the `struct` but a rather coarse one.
 - Modularity, wait, just a method call, is at the expense of lengthy linkage contortion, don't even think of OOP, it's a parallel universe. It's called sub-programming. Wooow.
@@ -168,12 +169,9 @@ Happy !!!
 
        PROCEDURE DIVISION.
            GOBACK.
-	  
-	  *testResults
-	  *----------------------------------------------------------------
 ```
   
-   [test/C1959/C1959.cut]
+   [test/C1959/C1959.cut] 
 ```cobol
 	  *TestSuite "Tests of Cobol longevity"
 
@@ -390,7 +388,7 @@ id                            lastname                      firstname           
 Again, rather use the regular `cobc` because the sub will need the -m switch which is not available (yet.)
 
 So what is it about: _in C# it would be
-_
+
 ```c#
 public static class Sub {
 	public static Ret Work(this User user) { ... }
@@ -406,7 +404,6 @@ public static class Parent {
 }
 ```
 
-```
 [parent.cob] `cobc -x parent.cob`
 ```cobol
        IDENTIFICATION DIVISION.
@@ -583,6 +580,8 @@ public static class Parent {
                GOBACK.
 ```
 
+_output_
+
 ```txt
 ---PARENT RISE
    I AM PARENT AND I GIVE
@@ -638,4 +637,76 @@ cobol       dev
 ---PARENT SUNSET
 ```
 
+
+# Relational Database
+
+If I understand well PS, aka sequential files (maybe tapes in the early days), or VISAM files allowing random access (what a progress, certainly due to disks) were the common storage on Z systems. Files are eventually arranged in a flat collection PDS. Stop that's it. No file tree.
+The game changer in the 80 were the RDBMS. IBM's is DB2. SQL had come, and it had to stay forever.
+
+Thanks to gixsql preprocessor the EXE SQL statements are recompiled. Nonetheless I had no luck so far to query my local postgres. TBC...
+
+```cobol
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. SQLPROG
+       DATA DIVISION.
+
+       WORKING-STORAGE SECTION.
+
+       01 dbConnectionInfo.
+           12 dbAlias   PIC X(100)  VALUE "pgsql://localhost:5432/gix-test001
+      -                                 "?default_schema=schema1".
+      *"
+           12 dbUserId  PIC X(10) VALUE 'postgres'.
+           12 dbPasswordVarchar.
+              15 dbPasswordLen  PIC S9(4) COMP-5 VALUE 0.
+              15 dbPassword  PIC X(18) VALUE 'postgres'.
+           EXEC SQL END DECLARE SECTION END-EXEC.
+
+       01 dbStatus            PIC S9(9) COMP-5.
+          88 SQL-STATUS-OK                   VALUE 0.
+          88 SQL-STATUS-NOT-FOUND            VALUE 100.
+          88 SQL-STATUS-DUP                  VALUE -803.
+
+       EXEC SQL
+           INCLUDE SQLCA
+       END-EXEC.
+
+       PROCEDURE DIVISION
+       .
+           DISPLAY ' '
+      *    perform do-ask-user-name
+           perform do-db-things
+           goback
+       .
+
+         do-db-things
+         .
+           DISPLAY
+               'connecting to '
+               dbAlias
+               ' with credentials'
+               dbUserId
+               ':'
+               dbPassword
+               '...'
+
+           INSPECT dbPassword TALLYING dbPasswordLen
+           FOR CHARACTERS BEFORE INITIAL SPACE
+
+           EXEC SQL
+           CONNECT :dbUserId IDENTIFIED BY :dbPassword USING :dbAlias
+           END-EXEC.
+
+           MOVE SQLCODE TO dbStatus
+         .
+
+         do-ask-db-credentials
+         .
+           DISPLAY "What's your db userId ?"
+           ACCEPT dbUserId FROM CONSOLE
+
+           DISPLAY "What's your db password ?"
+           ACCEPT dbPassword FROM CONSOLE
+         .
+```
 
