@@ -29,7 +29,9 @@ _On the opposite,_
 Indeed, `unknown` is the mother type of all types.
 
 ## TS never
-for a value to never occur
+
+For a value to never occur:
+
 ```
 function throwError(errorMsg: string): never { 
     throw new Error(errorMsg); 
@@ -45,13 +47,16 @@ function keepProcessing(): never {
 - Use `never` in positions where there will not or should not be a value
 - Use `unknown` where there will be a value, but it might have any type
 - Avoid using `any` unless you really need an unsafe escape hatch
-# void
-for a function to return no value
+## void
+
+For a function to return no value:
+
 ```
 function sayHi(): void { 
     console.log('Hi!')
 } 
 ```
 
-# Type guards
+## Type guards
+
 `instanceof` and `typeof`
