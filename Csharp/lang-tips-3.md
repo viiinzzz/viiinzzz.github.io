@@ -261,7 +261,7 @@ public static bool IsNullable(this Type ClrType)
 ## Underlying type
 
 ```csharp  
-  public static Type GetUnderlyingClrType(this Type )  
+  public static Type GetUnderlyingClrType(this Type ClrType)  
         {  
             get  
             {  
@@ -270,7 +270,7 @@ public static bool IsNullable(this Type ClrType)
                     return ClrType;  
   
                 }  
-                if (!IsNullable)  
+                if (!IsNullable(ClrType))  
                 {  
                     return ClrType;  
                 }  

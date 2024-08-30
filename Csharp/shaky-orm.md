@@ -199,3 +199,7 @@ var priority = (RoomServiceDuty duty) =>
 	);
 };
 ```
+
+# EF Core / C#9 records
+EF Core change tracker does not work well with records.
+Not an happy mix ! Better use the POCO class
