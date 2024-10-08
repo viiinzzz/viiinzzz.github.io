@@ -17,6 +17,7 @@ _                                   **"king a string over multiple lines".**    
 - The data types are mostly fixed length, and mostly number in strings. It looks nice for statish-globalish-style programming ain't it?
 - It's got the funny hierarchy numbers before the variable declaration, it's odd nonetheless it is working. That's the ancestor of the `struct` but a rather coarse one.
 - Modularity, wait, just a method call, is at the expense of lengthy linkage contortion, don't even think of OOP, it's a parallel universe. It's called sub-programming. Wooow.
+- THEN WHY DO YOU YELL AT ME ??!! I'M NOT YELLING. I'M DEAF.... OK, SORRY.  Yes that go damn codestyle is so before the flood.
 
 ![logo](../pix/cob-cave.webp)
 
@@ -710,3 +711,77 @@ Thanks to gixsql preprocessor the EXE SQL statements are recompiled. Nonetheless
          .
 ```
 
+
+# functions
+
+```cobol
+$set repository "update on"
+2 FUNCTION-ID. calculSomme.
+34
+LINKAGE SECTION.
+5 01 param1 pic 99.
+6 01 param2 pic 99.
+7 01 paramRes pic 99.
+89
+PROCEDURE DIVISION USING param1 param2 GIVING paramRes.
+10
+11 COMPUTE paramRes = param1 + param2.
+12
+13 END FUNCTION calculSomme.
+```
+
+```cobol
+IDENTIFICATION DIVISION.
+2 PROGRAM-ID. progPrinc.
+3 REPOSITORY.
+4 FUNCTION calculSomme.
+
+	  DATA DIVISION.
+7 WORKING-STORAGE SECTION.
+8 01 entier1 PIC 99.
+9 01 entier2 PIC 99.
+10 01 res PIC 99.
+
+	  SCREEN SECTION.
+13 01 plg-aff-titre.
+14 02 BLANK SCREEN.
+15 02 LINE 1 COL 20 'Somme de deux entiers'.
+
+17 01 plg-saisie.
+18 02 LINE 4 COL 1 'Entrez le nombre 1 : '.
+19 02 PIC zz TO entier1 REQUIRED.
+20 02 LINE 5 COL 1 'Entrez le nombre 2 : '.
+21 02 PIC zz TO entier2 REQUIRED.
+
+23 01 plg-resultat.
+24 02 line 8 col 1 'La somme des deux entiers est : '.
+25 02 PIC 99 FROM res.
+
+27 PROCEDURE DIVISION.
+
+29 INITIALIZE entier1 entier2 res.
+30 DISPLAY plg-aff-titre plg-saisie.
+31 ACCEPT plg-saisie.
+
+33 MOVE FUNCTION calculSomme(entier1,entier2) TO res.
+34 DISPLAY plg-resultat.
+
+36 GOBACK.
+37 END PROGRAM progPrinc.	  
+```
+
+
+# exception
+
+```cobol
+CALL id-sous-programme [USING BY REFERENCE ou BY CONTENT paramètre en entrée]
+[EXCEPTION instruction-impérative1]
+[NOT EXCEPTION instruction-impérative2]
+[RETURNING variable]
+END-CALL
+```
+
+
+```cobol
+GOBACK ou EXIT PROGRAM [GIVING variable]
+```

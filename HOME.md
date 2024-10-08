@@ -3,13 +3,22 @@ Welcome to my coding and thinking blog.
 
 # Articles
 
+## 2024.10 Issue
+
+For the autumn fall, I offer 4 new articles in my beloved C# world. Enjoy it !
+### C# Series
+- [C# - Language Tips 4](./Csharp/lang-tips-4.md) (new) ✨ fish, spread, plinq, using, await, ansi, accessor, rank
+- [C# - An argument about Code style, braces, lines](./Csharp/code-style-1.md) (new) ✨
+- [C# - Do you scream ?](./Csharp/scream-1.md) (new) ✨
+- [C# - Threading cakes](./Csharp/threading-1.md) (new) ✨
+
 ## 2024.08 Issue
 
 ### Cobol Series
-- [Ciboulette blog](./Cobol/ciboulette-blog.md) (new)
+- [Ciboulette blog](./Cobol/ciboulette-blog.md)
 
 ### Javascript Series
-- [50 shades of null](./Javascript/null50.md) (new)
+- [50 shades of null](./Javascript/null50.md) 
 
 ## 2024.06 Issue
 
