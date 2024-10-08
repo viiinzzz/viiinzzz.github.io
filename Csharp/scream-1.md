@@ -130,7 +130,7 @@ Let's open first-level. Notice folder names may have numbering; that trick is gr
   
   Indeed we have a 📣booking API, maybe if we open the test project, it will explain what it does 📣end-to-end. Its business has 📣core activities and 📣support as well; same for the infrastructure. The technical libs mention we're persisting in 📣databases and using 📣geo-location, and it's 📣communicating (maybe is it a distributed application?)
 
-Let's open the business. We're eager to understand to business value first, aren't we ?
+Let's open the business. We're eager to understand the business value first, aren't we ?
 
 ![pix](../pix/scream03.png)
 
