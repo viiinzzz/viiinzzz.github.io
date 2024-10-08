@@ -99,6 +99,7 @@ During the development phase, we go through cycles, `grow -> refacto -> shrink`.
 
 Don't be stingy with ¶ , a byte or two doesn't bite you. 
 
+```
 ¶
 Use line breaks !  ¶
 ¶
@@ -109,5 +110,8 @@ and keep your parts
 	
 	) well aligned !
 )
+```
 
 ...and one last thing, don't forget to call the `little animal with funny long hears, long teeth, that likes carrots and can long jump` ... a `Rabbit`; Once everybody is introduced with the `class Rabbit` it's easier and more readable rather than paraphrasing again and again (maybe wronging) Or if you're a carrot seller just call it the `ICarrotEater` that's enough knowledge in this case.
+ 
+<span style="font-size:10em"> 🐇</span>
