@@ -114,7 +114,7 @@ A good balance between No / and disturbing high-frequency refacto, should be con
 
 Breaking the CUSP 🤝Common Understanding Stability Principe is an issue. On one hand you should not fear 🪠refacto badly structured solutions (at least before it's too late), on the other hand you should have enough (◕‿◕) vision to give stability for a 🕖reasonable time.
 
-That kinks to major/minor versioning, backward compatibility matters.
+That links to major/minor versioning, backward compatibility matters.
 
 ## 📣Screaming example
 
