@@ -173,11 +173,11 @@ Now my advice which is not so common maybe, is to :
 I am more dubious regarding the practice consisting of enclosing scopes in `#region`. 
 
 Just like `partial` can make new class popping up, `#region` can make methods popping up as well.
-However I have seen so many legacy code where `#region` were plethorically used for the sole purpose of hiding shit under the carpet, that for me it smells like a lack of refacto accumulation.
+However I have seen so many legacy code where `#region` were plethorically used for the sole purpose of hiding shit under the carpet (the collapsed form), that for me it smells like a lack of refacto accumulation.
 
-### onion explorer
+### 🧅onion explorer
 
-Truly, I dream of a solution explorer that is not the traditional file tree, but a 2D, or 3D 💭onion explorer, with easy dive into, and cohesion/coupling vision feature. This is a call to VS extension inventors !!!
+Truly, I dream💭 of a solution explorer that is not the traditional file tree, but a 2D, or 3D onion explorer, with easy dive into, and cohesion/coupling vision feature. This is a call to VS extension inventors !!!
 I believe that would be a great addition. 
 
 ## Conclusion
