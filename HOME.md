@@ -3,7 +3,7 @@ Welcome to my coding and thinking blog.
 
 # Articles
 
-## ## 2024.10 Issue
+## 2025.01 Issue
 
 ### Random Think
 
