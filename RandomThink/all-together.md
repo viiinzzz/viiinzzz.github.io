@@ -19,6 +19,7 @@ ___
 1. Réconcilier l’humanité avec elle-même : dépasser la fragmentation sociale
 2. Réconcilier l’humanité avec la nature : redéfinir la prospérité
 3. Maîtriser la technologie : garantir une démocratie au service de l’humain
+
   Conclusion : Un nouvel humanisme en marche
 
 
