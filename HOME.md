@@ -3,14 +3,19 @@ Welcome to my coding and thinking blog.
 
 # Articles
 
+## ## 2024.10 Issue
+
+### Random Think
+
+- [All Together](./RandomThink/all-together.md) (new)✨
+
 ## 2024.10 Issue
 
-For the autumn fall, I offer 4 new articles in my beloved C# world. Enjoy it !
 ### C# Series
-- [C# - Language Tips 4](./Csharp/lang-tips-4.md) (new) ✨ fish, spread, plinq, using, await, ansi, accessor, rank
-- [C# - An argument about Code style, braces, lines](./Csharp/code-style-1.md) (new) ✨
-- [C# - Do you scream ?](./Csharp/scream-1.md) (new) ✨
-- [C# - Threading cakes](./Csharp/threading-1.md) (new) ✨
+- [C# - Language Tips 4](./Csharp/lang-tips-4.md)  fish, spread, plinq, using, await, ansi, accessor, rank
+- [C# - An argument about Code style, braces, lines](./Csharp/code-style-1.md)
+- [C# - Do you scream ?](./Csharp/scream-1.md)
+- [C# - Threading cakes](./Csharp/threading-1.md)
 
 ## 2024.08 Issue
 
@@ -42,7 +47,7 @@ For the autumn fall, I offer 4 new articles in my beloved C# world. Enjoy it !
 ### C# Series
 - [C# - Language Tips 3](./Csharp/lang-tips-3.md)
 
-### Random Thinks
+### Random Think
 - [Haïku printaniers](./RandomThink/haiku-printaniers.md)
 - [Violin Literature](./RandomThink/violin-books.md)
 - [Education Future](./RandomThink/education-future.md)
@@ -52,7 +57,7 @@ For the autumn fall, I offer 4 new articles in my beloved C# world. Enjoy it !
 ### C# Series
 - [C# - Language Tips 2](./Csharp/lang-tips-2.md)
 
-### Random Thinks
+### Random Think
 - [DDD Ballet](./RandomThink/ddd-coding.md)
 - [Intelligent brain f＊＊＊ing](./RandomThink/intelligent-brainf)
 - [Gregarious Technologies](./RandomThink/greg-tech.md)
@@ -72,7 +77,7 @@ For the autumn fall, I offer 4 new articles in my beloved C# world. Enjoy it !
 ### Javascript Series
 - [JS - NPM package publish](./Javascript/npm/publish)
 
-### Random Thinks
+### Random Think
 - [Paris 2024 Olympic Games](./RandomThink/paris-24.md)
 - [Secret Love Weapon](./RandomThink/war-n-love.md)
 - [HumGPT vs BigGPT](./RandomThink/hum-gpt)
